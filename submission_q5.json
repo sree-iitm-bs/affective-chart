@@ -1,0 +1,6 @@
+{
+  "prompt": "A master tailor's workshop. One extremely elaborate ornate suit on a mannequin, covered in hundreds of tiny hand-stitched marks, pins and adjustments, perfectly contoured to every curve of that one specific mannequin. Beside it, three normal people try on the same suit and it fits none of them, pulling and bunching in wrong places. Warm workshop light, photorealistic, cinematic, no text, no labels, no diagrams.",
+  "model": "Canva AI (Text to Image)",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored so precisely to one mannequin it fits no one else — memorizing one case perfectly while failing to generalize to any other."
+}
